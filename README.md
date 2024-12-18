@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @melonshreyas
-- 👀 I’m interested in Hardware, VLSI Insustry.
-- 🌱 I’m currently learning VLSI Design
+- 👋 Hi, I’m Shretas S Abgi
+- 👀 I’m interested in Hardware, Semiconductor Insustry.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shreyas1si15ec097@gmail.com
 
